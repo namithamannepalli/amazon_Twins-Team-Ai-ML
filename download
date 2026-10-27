@@ -1,0 +1,13 @@
+dataset/
+data/
+sample/
+output/
+cache/
+*.tsv
+*.parquet
+*.joblib
+*.db
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
